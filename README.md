@@ -1,4 +1,4 @@
-# test-project
+# Simon Game (Vue)
 
 ## Project setup
 ```
